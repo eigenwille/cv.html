@@ -81,7 +81,7 @@ To improve social media sharing, the following OG tags are included:
 - `og:image`
 - URL of Project
 
-- https://github.com/eigenwille/cv.html/blob/main/README.md
+https://github.com/eigenwille/cv.html/tree/main
 
 ---
 
