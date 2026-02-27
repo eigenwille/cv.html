@@ -80,7 +80,7 @@ To improve social media sharing, the following OG tags are included:
 - `og:url`
 - `og:image`
 [project
-URL](https://github.com/eigenwille/cv.html/blob/main/README.md)
+URL](https://roadmap.sh/projects/single-page-cv)
 
 ---
 
